@@ -1,0 +1,7 @@
+This application provides service for 2 types of users 
+1. store owner
+2. customers  
+
+
+Owner can list there food items with name, price and description.
+Owner can change, edit and delete there food item.
